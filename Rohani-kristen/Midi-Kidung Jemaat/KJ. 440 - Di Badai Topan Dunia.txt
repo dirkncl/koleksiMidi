@@ -1,3 +1,4 @@
+<style>a{text-decoration:none;color:lightgray;}</style>
 <small><center>Kidung Jemaat</center></small>
 <center>440. DI BADAI TOPAN DUNIA</center>
 
@@ -14,8 +15,10 @@ Tuhanlah Perlindunganmu!
 &nbsp;&nbsp;&nbsp;Ya, Yesus Gunung Batu di dunia,
 &nbsp;&nbsp;&nbsp;tempat berlindung yang teguh.
 
-2<span style='position: absolute'><span style="font-size:0.6em;position:relative; left:-5px;top: -10px"><a target="_page" href="https://dirkncl.github.io/Alkitab/?Mzm 121:6--TB" id="16088" >Mzm 121:6</a></span></span>. Baik siang maupun malam g'lap, Tuhanlah Perlindunganmu;
-niscaya takutmu lenyap, Tuhanlah perlindunganmu!
+2<span style='position: absolute'><span style="font-size:0.6em;position:relative; left:-5px;top: -10px"><a target="_page" href="https://dirkncl.github.io/Alkitab/?Mzm 121:6--TB" id="16088" >Mzm 121:6</a></span></span>. Baik siang maupun malam g'lap,
+Tuhanlah Perlindunganmu;
+niscaya takutmu lenyap,
+Tuhanlah perlindunganmu!
 
 &nbsp;&nbsp;&nbsp;<i>refrein</i>
 &nbsp;&nbsp;&nbsp;Ya, Yesus Gunung Batu di dunia,
