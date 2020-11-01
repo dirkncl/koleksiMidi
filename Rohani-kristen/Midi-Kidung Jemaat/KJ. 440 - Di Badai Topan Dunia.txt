@@ -1,4 +1,4 @@
-<style>a{text-decoration:none;}</style>
+<style>#info a{color:lightgrey;text-decoration:none}</style>
 <small><center>Kidung Jemaat</center></small>
 <center>440. DI BADAI TOPAN DUNIA</center>
 
